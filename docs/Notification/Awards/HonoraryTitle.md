@@ -11,6 +11,17 @@ cards:
         class: tag-target
       - text: 研究生
         class: tag-target
+
+cards:
+  - ddl: 2025-12-03
+    title: 星级志愿者评定校级初查结果
+    detail: 关于公示2025-2026学年秋冬学期星级志愿者评定校级初查结果的通知
+    href:  http://cspo.zju.edu.cn/2025/1203/c27178a3115019/page.htm
+    tags:
+      - text: 荣誉评选
+        class: tag-category
+      - text: 本科生
+        class: tag-target
 ---
 
 
